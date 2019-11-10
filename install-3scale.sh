@@ -41,6 +41,7 @@ echo "* Your 3scale admin password $ADMIN_PASSWORD "
 echo "* Your token username is $TOKEN_USERNAME "
 echo "* Your token password is $TOKEN_PASSWORD "
 echo "******"
+echo ""
 
 read -n 1 -s -r -p "Press any key to continue..."
 echo ""
